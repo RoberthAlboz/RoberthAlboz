@@ -5,7 +5,7 @@
   
 
 
-  <!-- Titulo Estilo Bootstrap (Substituindo o Typing SVG para maior estabilidade ) -->
+  <!-- Titulo Estilo Bootstrap -->
   <h1 align="center">Roberth Alboz</h1>
   <p align="center">Análise e Desenvolvimento de Sistemas | Perfil Acadêmico SENAI</p>
 
@@ -36,12 +36,7 @@ Espaço dedicado ao registro da minha evolução técnica e ao versionamento de 
 
 ---
 
-### Estatísticas e Atividade
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" height="170" />
-</p>
+### Atividade e Constância
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoberthAlboz&theme=dracula&hide_border=false" alt="Sequência de Contribuições" />
