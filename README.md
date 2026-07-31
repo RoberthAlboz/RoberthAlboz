@@ -1,33 +1,33 @@
 <div align="center">
-  <!-- Banner Técnico -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation">
+  <!-- BANNER TECNICO MINIMALISTA -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="CODING ANIMATION">
     
   
 
 
-  <!-- Typing SVG Minimalista -->
+  <!-- TYPING SVG ESTILO BOOTSTRAP -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=ROBERTH+ALBOZ;AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;PERFIL+ACAD%C3%8AMICO+SENAI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=ROBERTH+ALBOZ;ANALISE+E+DESENVOLVIMENTO+DE+SISTEMAS;PERFIL+ACADEMICO+SENAI" alt="TYPING SVG" />
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-S%C3%83O%20PAULO%2C%20SP-7952B3?style=flat-square" alt="Localização">
-    <img src="https://img.shields.io/badge/INSTITUI%C3%87%C3%83O-SENAI-white?style=flat-square&logo=senai&logoColor=red" alt="SENAI">
+    <img src="https://img.shields.io/badge/LOCALIZACAO-SAO%20PAULO%2C%20SP-7952B3?style=flat-square" alt="LOCALIZACAO">
+    <img src="https://img.shields.io/badge/INSTITUICAO-SENAI-white?style=flat-square&logo=senai&logoColor=red" alt="SENAI">
   </p>
 </div>
 
 ---
 
-### JORNADA ACADÊMICA
-Repositório dedicado ao versionamento de projetos, exercícios e evolução técnica durante o curso de Análise e Desenvolvimento de Sistemas.
+### JORNADA ACADEMICA
+REPOSITORIO DEDICADO AO VERSIONAMENTO DE PROJETOS, EXERCICIOS E EVOLUCAO TECNICA DURANTE O CURSO DE ANALISE E DESENVOLVIMENTO DE SISTEMAS.
 
-- **Desenvolvimento Web:** Interfaces responsivas e arquitetura frontend com TypeScript.
-- **Sistemas Backend:** Desenvolvimento de lógica de servidor com PHP e integração MySQL.
-- **Estruturas de Dados:** Implementação de algoritmos e modelagem de dados.
+- **DESENVOLVIMENTO WEB:** INTERFACES RESPONSIVAS E ARQUITETURA FRONTEND COM TYPESCRIPT.
+- **SISTEMAS BACKEND:** DESENVOLVIMENTO DE LOGICA DE SERVIDOR COM PHP E INTEGRACAO MYSQL.
+- **ESTRUTURAS DE DADOS:** IMPLEMENTACAO DE ALGORITMOS E MODELAGEM DE DADOS.
 
 ---
 
-### 🛠️ TOOLBOX (TECNOLOGIAS )
+### TOOLBOX (TECNOLOGIAS )
 
 | CATEGORIA | TECNOLOGIAS |
 | :--- | :--- |
@@ -37,28 +37,15 @@ Repositório dedicado ao versionamento de projetos, exercícios e evolução té
 
 ---
 
-### PROJETOS EM DESTAQUE
-
-*   **[PROJETO ALBOZ](https://github.com/RoberthAlboz/ALBOZ )**
-    *   Sistema de gerenciamento desenvolvido em PHP (Sprint Final).
-*   **[NEUROVITA](https://github.com/RoberthAlboz/Neurovita )**
-    *   Aplicação de conceitos de tipagem estática e interfaces com TypeScript.
-*   **[FAMILYHUB](https://github.com/RoberthAlboz/FamilyHub )**
-    *   Desenvolvimento de lógica frontend e interatividade com JavaScript.
-*   **[LANDING PAGES](https://github.com/RoberthAlboz/landing_page_senai_html_css )**
-    *   Interfaces responsivas aplicando padrões modernos de layout.
-
----
-
-### 📊 ESTATÍSTICAS E PERFORMANCE
+### ESTATISTICAS E PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Roberth" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&title_color=7952B3&icon_color=7952B3" alt="ESTATISTICAS" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=dracula&hide_border=false&title_color=7952B3" alt="LINGUAGENS" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoberthAlboz&theme=dracula" alt="Sequência de Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoberthAlboz&theme=dracula&hide_border=false" alt="SEQUENCIA" />
 </p>
 
 ---
