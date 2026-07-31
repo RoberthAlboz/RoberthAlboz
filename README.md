@@ -1,69 +1,69 @@
 <div align="center">
-  <!-- BANNER TECNICO MINIMALISTA -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="CODING ANIMATION">
+  <!-- Banner com animação sutil -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation">
     
   
 
 
-  <!-- TYPING SVG ESTILO BOOTSTRAP -->
+  <!-- Typing SVG com cores harmonizadas -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=ROBERTH+ALBOZ;ANALISE+E+DESENVOLVIMENTO+DE+SISTEMAS;PERFIL+ACADEMICO+SENAI" alt="TYPING SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Roberth+Alboz;Análise+e+Desenvolvimento+de+Sistemas;Perfil+Acadêmico+SENAI" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/LOCALIZACAO-SAO%20PAULO%2C%20SP-7952B3?style=flat-square" alt="LOCALIZACAO">
-    <img src="https://img.shields.io/badge/INSTITUICAO-SENAI-white?style=flat-square&logo=senai&logoColor=red" alt="SENAI">
+    <img src="https://img.shields.io/badge/Localização-São%20Paulo%2C%20SP-7952B3?style=flat-square" alt="Localização">
+    <img src="https://img.shields.io/badge/Instituição-SENAI-white?style=flat-square&logo=senai&logoColor=red" alt="SENAI">
   </p>
 </div>
 
 ---
 
-### JORNADA ACADEMICA
-REPOSITORIO DEDICADO AO VERSIONAMENTO DE PROJETOS, EXERCICIOS E EVOLUCAO TECNICA DURANTE O CURSO DE ANALISE E DESENVOLVIMENTO DE SISTEMAS.
+### Jornada Acadêmica
+Este espaço é dedicado ao registro da minha evolução técnica e ao versionamento de projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas no SENAI.
 
-- **DESENVOLVIMENTO WEB:** INTERFACES RESPONSIVAS E ARQUITETURA FRONTEND COM TYPESCRIPT.
-- **SISTEMAS BACKEND:** DESENVOLVIMENTO DE LOGICA DE SERVIDOR COM PHP E INTEGRACAO MYSQL.
-- **ESTRUTURAS DE DADOS:** IMPLEMENTACAO DE ALGORITMOS E MODELAGEM DE DADOS.
+*   **Desenvolvimento Web:** Foco em interfaces responsivas e arquitetura frontend com TypeScript.
+*   **Sistemas Backend:** Construção de lógica de servidor com PHP e integração com bancos de dados MySQL.
+*   **Estruturas de Dados:** Estudo e implementação de algoritmos aplicados a problemas reais.
 
 ---
 
-### TOOLBOX (TECNOLOGIAS )
+### Toolbox Tecnológica
 
-| CATEGORIA | TECNOLOGIAS |
+| Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **FRONTEND** | <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript" /> |
-| **BACKEND** | <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php" /> <img src="https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql" /> |
-| **TOOLS** | <img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git" /> <img src="https://img.shields.io/badge/VSCODE-000000?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/BOOTSTRAP-000000?style=flat-square&logo=bootstrap" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| **Ferramentas** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> |
 
 ---
 
-### ESTATISTICAS E PERFORMANCE
+### Estatísticas e Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&title_color=7952B3&icon_color=7952B3" alt="ESTATISTICAS" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=dracula&hide_border=false&title_color=7952B3" alt="LINGUAGENS" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&title_color=7952B3&icon_color=7952B3" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=dracula&hide_border=false&title_color=7952B3" alt="Linguagens mais usadas" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoberthAlboz&theme=dracula&hide_border=false" alt="SEQUENCIA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoberthAlboz&theme=dracula&hide_border=false" alt="Sequência de Contribuições" />
 </p>
 
 ---
 
-### CONTATO
+### Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberth-alboz-52b028426/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:roberth.alboz@aluno.senai.br">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/RoberthdAlboz" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB_PESSOAL-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Pessoal-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
-  <sub>ROBERTH ALBOZ • ACADEMIC PORTFOLIO • 2026</sub>
+  <sub>Roberth Alboz • Portfólio Acadêmico • 2026</sub>
 </div>
