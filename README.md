@@ -1,14 +1,13 @@
 <div align="center">
-  <!-- Banner com animação sutil -->
+  <!-- Banner Minimalista -->
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation">
     
   
 
 
-  <!-- Typing SVG com cores harmonizadas -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Roberth+Alboz;Análise+e+Desenvolvimento+de+Sistemas;Perfil+Acadêmico+SENAI" alt="Typing SVG" />
-  </a>
+  <!-- Titulo Estilo Bootstrap (Substituindo o Typing SVG para maior estabilidade ) -->
+  <h1 align="center">Roberth Alboz</h1>
+  <p align="center">Análise e Desenvolvimento de Sistemas | Perfil Acadêmico SENAI</p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Localização-São%20Paulo%2C%20SP-7952B3?style=flat-square" alt="Localização">
@@ -19,7 +18,7 @@
 ---
 
 ### Jornada Acadêmica
-Este espaço é dedicado ao registro da minha evolução técnica e ao versionamento de projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas no SENAI.
+Espaço dedicado ao registro da minha evolução técnica e ao versionamento de projetos desenvolvidos durante o curso no SENAI.
 
 *   **Desenvolvimento Web:** Foco em interfaces responsivas e arquitetura frontend com TypeScript.
 *   **Sistemas Backend:** Construção de lógica de servidor com PHP e integração com bancos de dados MySQL.
@@ -40,8 +39,8 @@ Este espaço é dedicado ao registro da minha evolução técnica e ao versionam
 ### Estatísticas e Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&title_color=7952B3&icon_color=7952B3" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=dracula&hide_border=false&title_color=7952B3" alt="Linguagens mais usadas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" height="170" />
 </p>
 
 <p align="center">
