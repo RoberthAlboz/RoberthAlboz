@@ -27,7 +27,7 @@ Repositório dedicado ao versionamento de projetos, exercícios e evolução té
 
 ---
 
-### TECH STACK (GRADE CURRICULAR )
+### 🛠️ TOOLBOX (TECNOLOGIAS )
 
 | CATEGORIA | TECNOLOGIAS |
 | :--- | :--- |
@@ -50,11 +50,15 @@ Repositório dedicado ao versionamento de projetos, exercícios e evolução té
 
 ---
 
-### ESTATÍSTICAS E PERFORMANCE
+### 📊 ESTATÍSTICAS E PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=transparent&hide_border=false&title_color=7952B3&icon_color=7952B3&text_color=333" alt="Estatísticas" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=transparent&hide_border=false&title_color=7952B3&text_color=333" alt="Linguagens" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RoberthAlboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Roberth" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthAlboz&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoberthAlboz&theme=dracula" alt="Sequência de Contribuições" />
 </p>
 
 ---
